@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,500;1,900&display=swap');
+/*Fonts that was imported;
+- barlow */
+
+img {
+    max-width: 45%;
+    max-height: 45%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2 {
+    font-family: barlow;
+}
+
+h3 {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    padding: 10px;
+    text-align: center;
+    font-family: barlow;
+}
+
+.container {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.image {
+    text-align: center;
+}
